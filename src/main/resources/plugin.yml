@@ -1,0 +1,8 @@
+name: Simple-Join-Messages
+version: '${project.version}'
+main: io.floxd03.minecraft.plugins.simplejoinmessages.SimpleJoinMessages
+api-version: 1.18
+prefix: SJM
+authors: [ FLOXD03 ]
+description: Brings custom join messages to your server.
+website: https://floxd03.io
